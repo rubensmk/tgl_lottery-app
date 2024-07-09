@@ -7,3 +7,6 @@
 [submodule "frontend-web-react"]
 	path = frontend-web-react
 	url = https://github.com/rubensmk/tgl_lottery-app-react
+[submodule "backend"]
+	path = backend
+	url = https://github.com/rubensmk/tgl_lottery-backend
